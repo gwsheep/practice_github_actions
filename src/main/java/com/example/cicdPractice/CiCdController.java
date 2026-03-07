@@ -9,7 +9,7 @@ public class CiCdController {
 
     @GetMapping("/")
     public String home() {
-        return "Good World";
+        return "TEST World";
     }
 
 
